@@ -75,6 +75,7 @@
     <Compile Include="Models\Client.cs" />
     <Compile Include="Models\Clients.cs" />
     <Compile Include="Controllers\ClientController.cs" />
+    <Compile Include="Controllers\CalculatriceController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Web.config" />

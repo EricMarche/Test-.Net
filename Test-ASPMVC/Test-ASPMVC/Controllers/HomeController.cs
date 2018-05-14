@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Mvc.Ajax;
+using System.Web.Routing;
 
 namespace TestASPMVC.Controllers
 {
@@ -54,7 +55,17 @@ namespace TestASPMVC.Controllers
                 return View("Info");
             }
 		}
+
+		public string Rerouting(string id)
+        {
+            return HtmlHelper.GenerateLink(Request.RequestContext,
+			                               RouteTable.Routes,
+			                               "Mon lien",
+			                               null,
+			                               "Afficher",
+			                               "Home",
+			                               new RouteValueDictionary { { "id", id } },
+			                               null);
+        }
     }
-
-
 }

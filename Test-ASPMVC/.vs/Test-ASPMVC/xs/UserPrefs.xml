@@ -1,44 +1,17 @@
 ﻿<Properties StartupConfiguration="{FF96F467-E45C-4F3B-9058-FA30D5ECDDB4}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Test-ASPMVC/Views/Client/ListeClients.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test-ASPMVC/Controllers/CalculatriceController.cs">
     <Files>
-      <File FileName="Test-ASPMVC/Controllers/HomeController.cs" Line="51" Column="78" />
-      <File FileName="Test-ASPMVC/Views/Home/Index.cshtml" Line="1" Column="1" />
-      <File FileName="Test-ASPMVC/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
-      <File FileName="Test-ASPMVC/Views/Shared/Error.cshtml" Line="1" Column="1" />
-      <File FileName="Test-ASPMVC/Views/Home/Info.cshtml" Line="12" Column="33" />
-      <File FileName="Test-ASPMVC/Models/Client.cs" Line="11" Column="1" />
-      <File FileName="Test-ASPMVC/Models/Clients.cs" Line="21" Column="1" />
-      <File FileName="Test-ASPMVC/Controllers/ClientController.cs" Line="13" Column="45" />
-      <File FileName="Test-ASPMVC/Views/Client/Trouve.cshtml" Line="15" Column="1" />
-      <File FileName="Test-ASPMVC/Views/Client/NonTrouve.cshtml" Line="9" Column="56" />
-      <File FileName="Test-ASPMVC/Views/Client/ListeClients.cshtml" Line="14" Column="92" />
+      <File FileName="Test-ASPMVC/App_Start/RouteConfig.cs" Line="10" Column="1" />
+      <File FileName="Test-ASPMVC/Controllers/HomeController.cs" Line="60" Column="1" />
+      <File FileName="Test-ASPMVC/Global.asax.cs" Line="13" Column="1" />
+      <File FileName="Test-ASPMVC/Controllers/CalculatriceController.cs" Line="20" Column="10" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Test-ASPMVC" expanded="True">
-            <Node name="Test-ASPMVC" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Client" expanded="True">
-                  <Node name="ListeClients.cshtml" selected="True" />
-                </Node>
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="Test-ASPMVC.Tests" expanded="True">
-              <Node name="Controllers" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/home/eric/Projects/Test-.Net/Test-ASPMVC/Test-ASPMVC/Controllers/HomeController.cs" relfile="Test-ASPMVC/Controllers/HomeController.cs" line="61" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
