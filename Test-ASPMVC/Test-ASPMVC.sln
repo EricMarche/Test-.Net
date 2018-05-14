@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-ASPMVC", "Test-ASPMVC\Test-ASPMVC.csproj", "{FF96F467-E45C-4F3B-9058-FA30D5ECDDB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-ASPMVC.Tests", "Test-ASPMVC.Tests\Test-ASPMVC.Tests.csproj", "{644D0D5F-C5A0-467D-98BA-2FAC5CB6FF95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF96F467-E45C-4F3B-9058-FA30D5ECDDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF96F467-E45C-4F3B-9058-FA30D5ECDDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF96F467-E45C-4F3B-9058-FA30D5ECDDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF96F467-E45C-4F3B-9058-FA30D5ECDDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{644D0D5F-C5A0-467D-98BA-2FAC5CB6FF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644D0D5F-C5A0-467D-98BA-2FAC5CB6FF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644D0D5F-C5A0-467D-98BA-2FAC5CB6FF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644D0D5F-C5A0-467D-98BA-2FAC5CB6FF95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
