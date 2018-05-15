@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{5DBDDA0A-CAE0-423F-B2EF-577CB52525CA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAL/IDal.cs">
+    <Files>
+      <File FileName="UnitTestProject/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="DAL/Dal.cs" Line="8" Column="12" />
+      <File FileName="DAL/IDal.cs" Line="3" Column="1" />
+      <File FileName="UnitTestProject/Models/Meteo.cs" Line="6" Column="42" />
+      <File FileName="UnitTestProject/Models/Temps.cs" Line="6" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UnitTestProject.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.UnitTestProject PreferredExecutionTarget="notepadqq" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DAL FirstBuild="True" />
+</Properties>
