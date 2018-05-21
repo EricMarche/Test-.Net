@@ -86,6 +86,9 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Models\Meteo.cs" />
     <Compile Include="Models\Temps.cs" />
+    <Compile Include="Models\Dal.cs" />
+    <Compile Include="Models\IDal.cs" />
+    <Compile Include="Models\Generator.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Web.config" />

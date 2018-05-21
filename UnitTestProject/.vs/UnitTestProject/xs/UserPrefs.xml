@@ -1,20 +1,32 @@
 ﻿<Properties StartupConfiguration="{5DBDDA0A-CAE0-423F-B2EF-577CB52525CA}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DAL/IDal.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTestProject.Tests/Controllers/GeneratorTest.cs">
     <Files>
       <File FileName="UnitTestProject/Controllers/HomeController.cs" Line="1" Column="1" />
       <File FileName="DAL/Dal.cs" Line="8" Column="12" />
       <File FileName="DAL/IDal.cs" Line="3" Column="1" />
       <File FileName="UnitTestProject/Models/Meteo.cs" Line="6" Column="42" />
       <File FileName="UnitTestProject/Models/Temps.cs" Line="6" Column="16" />
+      <File FileName="UnitTestProject.Tests/Controllers/MeteoTest.cs" Line="11" Column="1" />
+      <File FileName="UnitTestProject/Models/Dal.cs" Line="5" Column="6" />
+      <File FileName="UnitTestProject/Models/IDal.cs" Line="7" Column="6" />
+      <File FileName="UnitTestProject/Models/Generator.cs" Line="8" Column="2" />
+      <File FileName="UnitTestProject.Tests/Controllers/GeneratorTest.cs" Line="30" Column="19" />
+      <File FileName="UnitTestProject/App_Start/RouteConfig.cs" Line="16" Column="78" />
+      <File FileName="UnitTestProject.Tests/Controllers/routesTest.cs" Line="6" Column="25" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="UnitTestProject" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.UnitTestProject.Tests FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.UnitTestProject PreferredExecutionTarget="notepadqq" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.UnitTestProject PreferredExecutionTarget="notepadqq" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DAL FirstBuild="True" />
 </Properties>
